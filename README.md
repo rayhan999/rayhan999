@@ -1,7 +1,7 @@
 <h2> Hey there! I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
-
+<h3> 👨🏻‍💻 About Me </h3>
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br>
@@ -25,6 +25,18 @@
 <br>
 
 
+
+
+
+
+
+- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp;  I’m **good** in **Web Development** and currently learning **Front-End Web Development** With React.Js💪.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
