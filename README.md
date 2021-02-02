@@ -81,8 +81,14 @@
 
 ## _Favorite Languages:_ 😁
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&langs_count=10&theme=tokyonight&layout=compact" alt="rayhan999 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&langs_count=10&theme=radical&layout=compact" alt="rayhan999 :: Top Langs" /></p>
+
+
 ## Github Stats 🔥🔥🔥:
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
