@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="mailto:Fernando.Roldan.Zafra@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
  
