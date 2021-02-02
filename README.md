@@ -14,14 +14,6 @@
 
 </p>
 
-
-
-- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp;  I’m **good** in **Web Development** and currently learning **Front-End Web Development** With React.Js💪.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 <br>
 
 
