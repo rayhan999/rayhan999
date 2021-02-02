@@ -11,13 +11,14 @@
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
     
   </em>  
-</p>
 - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.<br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 - 💼 &nbsp; Full Stack Web developer.<br>
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .<br>
 - ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.<br>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
