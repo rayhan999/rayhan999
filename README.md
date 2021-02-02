@@ -1,4 +1,5 @@
-# Hi, I'm Md. Sadek Rayhan Mahi
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 I'm a **_Web Developer_** from Dhaka, Bangladesh. My interest is in **_Web Development_** and **_Machine Learning_**. I love to learn new skills.
 I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
