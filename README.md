@@ -2,6 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+--
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br>
@@ -11,12 +12,12 @@
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
     
   </em>  
-- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.<br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
-- 💼 &nbsp; Full Stack Web developer.<br>
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .<br>
-- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.<br>
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
+- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Full Stack Web developer.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 </p>
 
 
