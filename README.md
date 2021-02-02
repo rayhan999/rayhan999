@@ -22,7 +22,7 @@
 
 
 
-<br><br>
+<br><br><br>
 
 - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -90,7 +90,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rayhan999&theme=radical&layout=compact" alt="rayhan999" /></p>
+<img src="https://ghchart.rshah.org/rayhan999" alt="rayhan999's Github chart" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=rayhan999&" alt="rayhan999" />
 
 <br><br>
