@@ -1,5 +1,5 @@
 <h2> Hey there! I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" height="350" />
 
 
 <h3> 👨🏻‍💻 About Me </h3><br>
@@ -31,9 +31,9 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
-<p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="rayhan999" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan999" alt="salmanprottoy" /></a> </p>
 
 ## _Connect with me:_ 🏃
 
