@@ -1,7 +1,7 @@
 <h2> Hey there! I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 
-<br>
+
 <h3> 👨🏻‍💻 About Me </h3><br>
 <p>
   <em>
@@ -21,7 +21,7 @@
 
 
 
-<br><br><br>
+<br><br>
 
 - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
