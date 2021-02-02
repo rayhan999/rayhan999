@@ -9,15 +9,15 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
+    
+  </em>  
+</p>
+- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full Stack Web developer.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-  </em>  
-</p>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
