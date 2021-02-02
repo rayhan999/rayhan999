@@ -1,4 +1,4 @@
-<h2> Hey there! I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! <br>I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" height="350" />
 
 <br>
@@ -79,9 +79,9 @@
   
 </p>
 
-## Favorite Languages ⭐⭐⭐:
+## _Favorite Languages:_ 😁
 
-<p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
+<p><img align="center" src="https://github-readme-stats.rayhan999.vercel.app/api/top-langs?username=rayhan999&show_icons=true&locale=en&langs_count=8" alt="rayhan999" /></p>
 
 ## Github Stats 🔥🔥🔥:
 
