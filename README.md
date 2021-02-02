@@ -12,12 +12,12 @@
     
   </em>  
 </p>
-- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Full Stack Web developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.<br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
+- 💼 &nbsp; Full Stack Web developer.<br>
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .<br>
+- ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.<br>
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
