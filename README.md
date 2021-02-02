@@ -1,7 +1,7 @@
 <h2> Hey there! <br>I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" height="350" />
 
-<br>
+<br><br>
 
 
 <p>
@@ -87,7 +87,7 @@
 
 ## Github Stats 🔥🔥🔥:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" />
 
