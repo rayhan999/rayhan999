@@ -89,8 +89,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" />
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rayhan999&theme=radical&layout=compact" alt="rayhan999" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=rayhan999&theme=radical&layout=compact" alt="rayhan999" /></p>
 
 <br><br>
