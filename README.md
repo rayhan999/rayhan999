@@ -2,24 +2,28 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
----
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br>
+    I am a 3rd Year undergraduate from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br><br>
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br><br>
     
   </em>  
+
+</p>
+<br>
+
+
 - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Full Stack Web developer.
+- 💼 &nbsp;  I’m **good** in **Web Development** and currently learning **Front-End Web Development** With React.Js💪.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-</p>
+<br>
 
 
 
