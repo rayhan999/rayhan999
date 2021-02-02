@@ -2,7 +2,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" height="350" />
 
 <br>
-<h3> 👨🏻‍💻 About Me </h3><br>
+
+
 <p>
   <em>
     I am a 4th Year undergraduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br><br>
@@ -88,10 +89,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" /></p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=rayhan999&theme=radical&layout=compact" alt="rayhan999" /></p>
 
-<!--START_SECTION:activity-->
+<br><br>
