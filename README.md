@@ -1,7 +1,7 @@
 <h2> Hey there! I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" height="350" />
 
-
+<br>
 <h3> 👨🏻‍💻 About Me </h3><br>
 <p>
   <em>
@@ -37,12 +37,13 @@
 
 ## _Connect with me:_ 🏃
 
-<p align="left">
-<a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://fb.com/salman.prottoy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
-<a href="https://instagram.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/salmanprottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="salmanprottoy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="mailto:Fernando.Roldan.Zafra@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/sadek.rayhan/" target="blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+ 
 </p>
 
 ## Languages and Tools:
