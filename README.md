@@ -1,5 +1,5 @@
 <h2> Hey there! <br>I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="center" alt="GIF" src="https://media.licdn.com/dms/image/D5616AQG82Jw1poHPIw/profile-displaybackgroundimage-shrink_350_1400/0/1671689876606?e=1680134400&v=beta&t=hnySf2YCuiucRTLpVHg0mdvK1Eb5ibTlmVRmkonmAQs" width="520" height="350" />
+<img align="center" alt="GIF" src="https://media.licdn.com/dms/image/D5616AQG82Jw1poHPIw/profile-displaybackgroundimage-shrink_350_1400/0/1671689876606?e=1680134400&v=beta&t=hnySf2YCuiucRTLpVHg0mdvK1Eb5ibTlmVRmkonmAQs" />
 
 <br><br>
 
