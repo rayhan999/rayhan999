@@ -1,28 +1,28 @@
 <h2> Hey there! <br>I'm MD. Sadek Rayhan Mahi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="center" alt="GIF" src="https://media.licdn.com/dms/image/D5616AQG82Jw1poHPIw/profile-displaybackgroundimage-shrink_350_1400/0/1671689876606?e=1680134400&v=beta&t=hnySf2YCuiucRTLpVHg0mdvK1Eb5ibTlmVRmkonmAQs" />
 
-<br><br>
+
 
 
 <p>
   <em>
- <br><br>
+ 
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"><br>
+    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px">
     
   </em>  
 
 </p>
 
+
+
+
+
+
+
 <br>
-
-
-
-
-
-<br><br><br>
 
 - 🔭 &nbsp; I’m currently learning Machine Learning on research purpose.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
