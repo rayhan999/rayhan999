@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a fresh graduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. <br><br>
+ 
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -28,6 +28,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp;  I’m **good** in **Web Development** and currently learning **Front-End Web Development** With React.Js💪.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
+- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](https://rayhan-mahi.vercel.app/)
+- 👯 &nbsp; Open to discuss about any startup idea
 - ✍️ &nbsp; Watching Anime, TV series and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 <br>
@@ -92,6 +94,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical&layout=compact" alt="rayhan999" />
 <img src="https://ghchart.rshah.org/rayhan999" alt="rayhan999's Github chart" /></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=rayhan999&" alt="rayhan999" />
 
 <br><br>
