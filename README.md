@@ -10,7 +10,7 @@ I am a Software Engineer with nearly **4 years of experience** building modern, 
 
 - 🔭 **Currently:** Developing **Healify**, an AI-powered physiotherapy assistant using real-time pose detection and LSTM Autoencoders.
 - 💡 **Obsession:** Clean code, microfrontend architecture, and impactful UX.
-- 🌍 **Community:** Vice-Chairman of IDESCO and Exchange Student Tutor at JYU.
+- 🌍 **Community:** Vice-Chairman of IDESCO and Exchange Student Tutor at the University of Jyväskylä.
 - ☕ **Fact:** I believe a perfect cup of coffee can solve almost any stress.
 
 ---
@@ -29,8 +29,8 @@ I am a Software Engineer with nearly **4 years of experience** building modern, 
 
 ### 🌟 Featured Experience
 
-* **Software Engineer @ Onkho (2023 - 2025):** Led CRM development using **Microfrontends**, improving responsiveness by **35%** and achieving **90% test coverage** using Jest.
-* **Software Engineer @ SELISE (2022 - 2023):** Developed performance-optimized frontend modules for a national **Rail Management System** and complex dynamic form builders.
+* **Software Engineer @ Onkho (2023 - 2025):** Led CRM development using **Microfrontends**, improving responsiveness by **35%** and achieving **90% test coverage** using Jest and React Testing Library.
+* **Software Engineer @ SELISE (2022 - 2023):** Developed performance-optimized modules for a national **Rail Management System** and interactive geospatial visualizations using Leaflet.
 
 ---
 
