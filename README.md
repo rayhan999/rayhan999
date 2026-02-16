@@ -1,87 +1,55 @@
-## Hey there! I'm Sadek Rayhan Mahi 👋
-
-**Frontend-focused Software Engineer | AI Researcher | Problem Solver**
-
-I am a Software Engineer with nearly **4 years of experience** specializing in building scalable, high-performance web applications. Currently, I’m leveling up my expertise by pursuing an **MSc in Artificial Intelligence** at the University of Jyväskylä, Finland.
-
-I bridge the gap between complex backend logic and intuitive user experiences, obsessed with clean code and impactful UX.
-
----
-
-### 🚀 What I’m Up To
-
-* 🎓 **Finalizing my Master's:** Researching and building AI systems with an expected graduation in April 2026.
-
-
-* 🛠️ **Building with React & TS:** Crafting microfrontend architectures and optimizing performance.
-
-
-* 🤖 **AI Integration:** Developing full-stack AI systems like **Healify**, focusing on real-time pose detection and feedback.
-
-
-* 🌍 **Community:** Serving as Vice-Chairman of **IDESCO** and helping new students as an Exchange Student Tutor.
-
-
-
----
-
-### 💻 Tech Stack & Tools
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, Python, PHP, C/C++, SQL 
-
- |
-| **Frontend** | React.js, Next.js, Angular, TailwindCSS, Storybook 
-
- |
-| **Backend & DB** | Node.js, Express.js, Flask, Laravel, MongoDB, MySQL, Supabase 
-
- |
-| **AI & ML** | TensorFlow, MediaPipe, LSTM Autoencoders, RAG, Gemini API 
-
- |
-| **DevOps & Tools** | Docker, CI/CD (GitHub Actions), Azure, Firebase, Jest, Vite 
-
- |
-
----
-
-### 📊 Highlighted Projects
-
-* 
-**Healify (AI Physiotherapy Assistant):** A full-stack AI system using **MediaPipe** and **TensorFlow** for real-time exercise monitoring and corrective feedback.
-
-
-* 
-**Rail Management System:** Developed high-performance modules and interactive geospatial visualizations using **Leaflet**.
-
-
-* 
-**CRM Microfrontends:** Led the migration to a microfrontend setup at Onkho, boosting responsiveness by **35%**.
-
-
-
----
-
-### 💬 Let's Connect!
-
-I'm always open to discussing **startup ideas**, **AI research**, or the perfect cup of **coffee** ☕.
-
-<p align="left">
-<a href="[https://www.linkedin.com/in/rayhan-mahi-3a715a15a/](https://www.linkedin.com/in/rayhan-mahi-3a715a15a/)"><img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"></a>
-<a href="mailto:rayhanmahi999@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"></a>
-<a href="[https://rayhan-mahi.vercel.app/](https://rayhan-mahi.vercel.app/)"><img src="[https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite)" alt="Portfolio"></a>
-<a href="[https://github.com/rayhan999](https://www.google.com/search?q=https://github.com/rayhan999)"><img src="[https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite)" alt="GitHub"></a>
-</p>
-
----
-
-### 📈 My GitHub Stats
+# Hey there! I'm Sadek Rayhan Mahi 👋
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical)" alt="Mahi's Stats" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=radical](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drayhan999%26layout%3Dcompact%26theme%3Dradical)" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=rayhan999&label=Profile%20views&color=0e75b6&style=flat-square" alt="rayhan999" />
 </p>
 
-Would you like me to generate a custom **header image** or a **skills-cloud graphic** to make this even more visual?
+### 🚀 Frontend-focused Software Engineer | AI Researcher
+
+[cite_start]I am a Software Engineer with nearly **4 years of experience** building modern, user-centric web applications[cite: 4]. [cite_start]Currently, I’m pursuing an **MSc in Artificial Intelligence** at the University of Jyväskylä, Finland (Expected 2026)[cite: 7, 27]. I specialize in bridging high-performance frontend architecture with intelligent backend systems.
+
+- [cite_start]🔭 **Currently:** Developing **Healify**, an AI-powered physiotherapy assistant using real-time pose detection[cite: 40, 42].
+- [cite_start]💡 **Obsession:** Clean code, microfrontend architecture, and impactful UX[cite: 5, 7].
+- [cite_start]🌍 **Community:** Vice-Chairman of IDESCO and Exchange Student Tutor at JYU[cite: 59, 60].
+- ☕ **Fact:** I believe a perfect cup of coffee can solve almost any stress.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) [cite: 31] |
+| **Frontend** | [cite_start]![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) [cite: 32] |
+| **Backend** | [cite_start]![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) [cite: 32] |
+| **Database** | [cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) [cite: 34, 16] |
+| **DevOps/AI** | [cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) [cite: 36, 38, 44] |
+
+---
+
+### 🌟 Featured Experience
+
+* [cite_start]**Software Engineer @ Onkho (2023 - 2025):** Led CRM development using **Microfrontends**, improving responsiveness by **35%** and achieving **90% test coverage**[cite: 9, 11, 13].
+* [cite_start]**Software Engineer @ SELISE (2022 - 2023):** Built scalable modules for a national **Rail Management System** and dynamic form builders[cite: 18, 20, 23].
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&rank_icon=github" alt="Mahi's Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rayhan-mahi-3a715a15a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rayhanmahi999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rayhan-mahi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+_“Improving oneself every day to excel in the platform provided.”_
