@@ -6,11 +6,11 @@
 
 ### 🚀 Frontend-focused Software Engineer | AI Researcher
 
-[cite_start]I am a Software Engineer with nearly **4 years of experience** building modern, user-centric web applications[cite: 4]. [cite_start]Currently, I’m pursuing an **MSc in Artificial Intelligence** at the University of Jyväskylä, Finland, with a focus on high-impact AI systems.
+I am a Software Engineer with nearly **4 years of experience** building modern, user-centric web applications. Currently, I’m pursuing an **MSc in Artificial Intelligence** at the University of Jyväskylä, Finland (Expected 2026). I specialize in bridging high-performance frontend architecture with intelligent backend systems.
 
-- [cite_start]🔭 **Currently:** Developing **Healify**, an AI-powered physiotherapy assistant using real-time pose detection and LSTM Autoencoders[cite: 40, 42].
-- [cite_start]💡 **Obsession:** Clean code, microfrontend architecture, and impactful UX[cite: 5, 7].
-- [cite_start]🌍 **Community:** Vice-Chairman of IDESCO and Exchange Student Tutor at the University of Jyväskylä[cite: 59, 60].
+- 🔭 **Currently:** Developing **Healify**, an AI-powered physiotherapy assistant using real-time pose detection and LSTM Autoencoders.
+- 💡 **Obsession:** Clean code, microfrontend architecture, and impactful UX.
+- 🌍 **Community:** Vice-Chairman of IDESCO and Exchange Student Tutor at the University of Jyväskylä.
 - ☕ **Fact:** I believe a perfect cup of coffee can solve almost any stress.
 
 ---
@@ -29,19 +29,17 @@
 
 ### 🌟 Featured Experience
 
-* [cite_start]**Software Engineer @ Onkho (2023 - 2025):** Led CRM development using **Microfrontends**, improving responsiveness by **35%**[cite: 9, 11]. [cite_start]Achieved **90% test coverage** using Jest and React Testing Library[cite: 13].
-* [cite_start]**Software Engineer @ SELISE (2022 - 2023):** Developed performance-optimized modules for a national **Rail Management System** and interactive geospatial visualizations[cite: 18, 20, 24].
+* **Software Engineer @ Onkho (2023 - 2025):** Led CRM development using **Microfrontends**, improving responsiveness by **35%** and achieving **90% test coverage** using Jest and React Testing Library.
+* **Software Engineer @ SELISE (2022 - 2023):** Developed performance-optimized modules for a national **Rail Management System** and interactive geospatial visualizations using Leaflet.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical" alt="Mahi's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&rank_icon=github" alt="Mahi's Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
