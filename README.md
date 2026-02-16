@@ -44,6 +44,15 @@ I am a Software Engineer with nearly **4 years of experience** building modern, 
   <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=transparent&hide_border=true" />
 
 </p>
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=rayhan999&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
