@@ -37,9 +37,11 @@ I am a Software Engineer with nearly **4 years of experience** building modern, 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=radical&rank_icon=github" alt="Mahi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=dark&hide_border=true" alt="Mahi's Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan999&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
