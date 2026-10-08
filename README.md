@@ -40,10 +40,6 @@ I am a Software Engineer with nearly **4 years of experience** building modern, 
   <img src="https://github-readme-stats.vercel.app/api?username=rayhan999&show_icons=true&theme=dark&hide_border=true" alt="Mahi's Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 <img src="https://streak-stats.demolab.com?user=rayhan999&theme=tokyonight&hide_border=true" />
 
 </p>
